@@ -1,2 +1,2 @@
 ﻿# Voicofy
-# A MERN-app focusing on smooth communication via audio transfer using WebRTC
+# A MERN app focusing on smooth communication via audio transfer using WebRTC
